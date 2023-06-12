@@ -34,17 +34,18 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    showgrid="false"
-   inkscape:zoom="5.5286426"
-   inkscape:cx="69.818223"
-   inkscape:cy="9.4960018"
-   inkscape:window-width="1920"
-   inkscape:window-height="1011"
-   inkscape:window-x="0"
-   inkscape:window-y="32"
-   inkscape:window-maximized="1"
+   inkscape:zoom="2"
+   inkscape:cx="-19.5"
+   inkscape:cy="6.5"
+   inkscape:window-width="1816"
+   inkscape:window-height="1209"
+   inkscape:window-x="2292"
+   inkscape:window-y="194"
+   inkscape:window-maximized="0"
    inkscape:current-layer="White-badge"
    inkscape:showpageshadow="2"
-   inkscape:deskcolor="#d1d1d1" />
+   inkscape:deskcolor="#d1d1d1"
+   showguides="true" />
 <style
    type="text/css"
    id="style2">
@@ -75,35 +76,18 @@
    id="text12"
    inkscape:export-filename="/home/horatiu/Downloads/readme-assets/badges/stores/nuget.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">Download on</text>
+   inkscape:export-ydpi="96">Get it from</text>
 		<text
-   transform="translate(50,41)"
    class="st3 st4 st6"
-   id="text14">FlatHub</text>
-	<g
-   style="fill:#000000;stroke-width:0.7176"
-   transform="matrix(0.83191133,0,0,0.86942663,-122.9425,-64.741479)"
-   id="g437"><circle
-     style="fill:#000000;stroke-width:0.189864"
-     cx="166.688"
-     cy="95.647003"
-     r="9.0480003"
-     id="circle429" /><rect
-     style="fill:#000000;stroke-width:0.189864"
-     width="16.412001"
-     height="16.412001"
-     x="158.414"
-     y="107.798"
-     rx="4.3769999"
-     ry="4.3769999"
-     id="rect431" /><path
-     style="fill:#000000;stroke-width:0.17882"
-     d="M 69.514,58.833 H 57.486 a 2.444,2.444 60 0 1 -2.117,-3.666 l 0.89,-1.542 5.124,-8.875 a 2.444,2.444 0 0 1 4.234,0 l 0.89,1.542 5.124,8.875 a 2.444,2.444 120 0 1 -2.117,3.666 z"
-     transform="matrix(0.9259024,0.53457,0.53457,-0.9259024,99.82665,110.69315)"
-     id="path433" /><path
-     style="fill:#000000;stroke-width:1.89864"
-     d="m 194.992,116.11 c 0,0.88 -0.708,1.587 -1.588,1.587 h -12.7 c -0.88,0 -1.587,-0.708 -1.587,-1.587 0,-0.88 0.708,-1.588 1.587,-1.588 h 12.7 c 0.88,0 1.588,0.708 1.588,1.588 z m -7.938,-7.938 c 0.88,0 1.588,0.708 1.588,1.588 v 12.7 c 0,0.88 -0.708,1.587 -1.588,1.587 -0.88,0 -1.587,-0.708 -1.587,-1.587 v -12.7 c 0,-0.88 0.708,-1.588 1.587,-1.588 z"
-     id="path435" /></g></g>
+   id="text14"
+   x="48.826786"
+   y="41">DeviantArt</text>
+	<polygon
+   id="polygon8"
+   class="st0"
+   points="85.6,3.7 68.1,37.2 62.6,40.9 0,40.9 0,91.9 34.4,91.9 37.5,95.6 0,167.2 0,204.3 0,204.3 37.1,204.3 40.9,200.6 58.4,167.2 63.9,163.5 126.5,163.5 126.5,112.4 92.1,112.4 89,108.7 126.5,37.2 126.5,0 126.4,0 89.3,0 "
+   style="fill:#24e39d"
+   transform="matrix(0.1592791,0,0,0.1592791,14.475599,10.62964)" /></g>
 </g>
 <metadata
    id="metadata839"><rdf:RDF><cc:Work
